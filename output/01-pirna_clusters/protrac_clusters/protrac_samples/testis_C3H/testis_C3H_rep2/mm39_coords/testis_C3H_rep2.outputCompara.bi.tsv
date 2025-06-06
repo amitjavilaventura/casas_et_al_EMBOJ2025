@@ -1,0 +1,902 @@
+
+## mus_musculus_c3hhej ref query coordinates:1	75494048	75498986	1	testis_C3H_rep2-piC_5
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	1	75043762	75048701	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	1	78721465	78727093	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	1	75185589	75190527	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	1	75231847	75236785	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	1	75160835	75165773	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	1	73192630	73197568	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain A/J	A_J_v1	chromosome	1	73131665	73136603	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	1	75494048	75498986	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	1	81282543	81287481	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	1	72449878	72454816	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	1	84640605	84645540	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	1	71648820	71653758	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain LP/J	LP_J_v1	chromosome	1	76897348	76902286	1	testis_C3H_rep2-piC_5	6829
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	1	75773075	75778013	1	testis_C3H_rep2-piC_5	6829
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	1	71920151	71925107	1	testis_C3H_rep2-piC_5	6829
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	1	74831929	74836887	1	testis_C3H_rep2-piC_5	6829
+
+## mus_musculus_c3hhej ref query coordinates:1	89206064	89212334	1	testis_C3H_rep2-piC_7
+
+## The query region (testis_C3H_rep2-piC_7) has thrown some exception.Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	1	85024556	85035564	1	testis_C3H_rep2-piC_7	68610
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	1	88719370	88727533	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	1	89678930	89685064	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain LP/J	LP_J_v1	chromosome	1	90777856	90786253	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	1	88970187	88976399	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain A/J	A_J_v1	chromosome	1	86410878	86418288	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	1	86558662	86578111	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	1	85644866	85655450	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	1	89206064	89212334	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	1	96071766	96078436	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	1	84705314	84711242	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	1	99461663	99470380	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	1	88187724	88193646	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	1	93085103	93098307	1	testis_C3H_rep2-piC_7	68610
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	1	89012607	89022079	1	testis_C3H_rep2-piC_7	68610
+
+## mus_musculus_c3hhej ref query coordinates:1	192180037	192186222	1	testis_C3H_rep2-piC_25
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	1	191668151	191674354	1	testis_C3H_rep2-piC_25	10400
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	1	183819464	183825717	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	1	193771865	193778843	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain LP/J	LP_J_v1	chromosome	1	194945111	194951303	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	1	191215099	191221284	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	1	199950533	199959299	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	1	186696850	186703035	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	1	214235540	214241730	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	1	182683828	182690216	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain A/J	A_J_v1	chromosome	1	185837921	185844109	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	1	186513877	186520062	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	1	184604008	184610198	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	1	192180037	192186222	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	1	207414258	207420442	1	testis_C3H_rep2-piC_25	10400
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	1	191308301	191314489	1	testis_C3H_rep2-piC_25	10400
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	1	191385839	191392014	1	testis_C3H_rep2-piC_25	10400
+
+## mus_musculus_c3hhej ref query coordinates:2	26974027	26982616	1	testis_C3H_rep2-piC_29
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	2	25795804	25802845	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	2	27227342	27235187	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain LP/J	LP_J_v1	chromosome	2	27159861	27167194	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	2	26965271	26975113	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	2	28119679	28129126	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	2	29006231	29014275	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	2	27051557	27064206	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	2	26307550	26320822	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain A/J	A_J_v1	chromosome	2	26185370	26192672	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	2	25979661	25987599	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	2	26974027	26982616	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	2	29075028	29082683	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	2	29071613	29080942	1	testis_C3H_rep2-piC_29	64289
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	2	25788835	25795143	1	testis_C3H_rep2-piC_29	64289
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	2	27090809	27096913	1	testis_C3H_rep2-piC_29	64289
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	2	26880002	26886921	1	testis_C3H_rep2-piC_29	64289
+
+## mus_musculus_c3hhej ref query coordinates:2	94443116	94455011	1	testis_C3H_rep2-piC_38
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	2	94867913	94879879	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	2	93784819	93796718	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	2	98727881	98739824	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	2	94245723	94257624	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	2	90323807	90335700	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	2	105068065	105079952	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	2	94171550	94183494	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain A/J	A_J_v1	chromosome	2	91595321	91607248	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	2	91789179	91801074	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	2	91200866	91212802	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	2	102172680	102184557	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	2	94443116	94455011	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	2	95475846	95487741	1	testis_C3H_rep2-piC_38	15033
+Mus musculus	strain LP/J	LP_J_v1	chromosome	2	95670623	95682516	1	testis_C3H_rep2-piC_38	15033
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	2	90955477	90967595	1	testis_C3H_rep2-piC_38	15033
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	2	95046485	95058505	1	testis_C3H_rep2-piC_38	15033
+
+## mus_musculus_c3hhej ref query coordinates:2	171398746	171413966	1	testis_C3H_rep2-piC_55
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	2	164851519	164866420	1	testis_C3H_rep2-piC_55	50371
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	2	171867982	171886110	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain LP/J	LP_J_v1	chromosome	2	173224146	173239018	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	2	173207439	173225557	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	2	163716342	163733114	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	2	188183978	188200984	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	2	165190198	165205468	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	2	184800068	184819688	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	2	171398746	171413966	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain A/J	A_J_v1	chromosome	2	166077319	166091625	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	2	166433305	166449663	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	2	171029966	171044958	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	2	170961562	170976550	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	2	178265452	178281625	1	testis_C3H_rep2-piC_55	50371
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	2	167313006	167327994	1	testis_C3H_rep2-piC_55	50371
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	2	171863153	171879166	1	testis_C3H_rep2-piC_55	50371
+
+## mus_musculus_c3hhej ref query coordinates:3	6563213	6571260	1	testis_C3H_rep2-piC_57
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	3	6595888	6603100	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	3	6108904	6116119	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain A/J	A_J_v1	chromosome	3	6376724	6383939	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	3	6563213	6571260	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	3	6728471	6735688	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	3	5960190	5967399	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	3	6272221	6279435	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	3	7828853	7836934	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	3	5894285	5901499	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	3	9345092	9352299	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	3	6802549	6811189	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	3	6121593	6128800	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain LP/J	LP_J_v1	chromosome	3	6697103	6704300	1	testis_C3H_rep2-piC_57	12043
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	3	6166572	6173779	1	testis_C3H_rep2-piC_57	12043
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	3	6114291	6121491	1	testis_C3H_rep2-piC_57	12043
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	3	6189198	6196660	1	testis_C3H_rep2-piC_57	12043
+
+## mus_musculus_c3hhej ref query coordinates:4	61107087	61137795	1	testis_C3H_rep2-piC_78
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	59048183	59076325	1	testis_C3H_rep2-piC_78	323114
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	57309716	57341073	1	testis_C3H_rep2-piC_78	323114
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	60684198	60714376	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	58079976	58114338	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	68611679	68658962	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	58843775	58867893	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	65463320	65511331	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	61107087	61137795	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain A/J	A_J_v1	chromosome	4	58961910	58998835	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	59142829	59179550	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	60611424	60643146	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	60710229	60745952	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	63292481	63326110	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	62132978	62164437	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	61192369	61224564	1	testis_C3H_rep2-piC_78	323114
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	61453842	61508402	1	testis_C3H_rep2-piC_78	323114
+
+## mus_musculus_c3hhej ref query coordinates:4	61349281	61355651	1	testis_C3H_rep2-piC_79
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	59291307	59295366	1	testis_C3H_rep2-piC_79	42389
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	57541197	57545489	1	testis_C3H_rep2-piC_79	42389
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	60928057	60935488	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	61710252	61714563	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	61429740	61434888	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	68865149	68874430	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	58310632	58315135	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	59379036	59385869	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain A/J	A_J_v1	chromosome	4	59203303	59208325	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	59061022	59065308	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	65730342	65744599	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	61349281	61355651	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	60845620	60850976	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	60948612	60952876	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	63540513	63544811	1	testis_C3H_rep2-piC_79	42389
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	62362028	62371893	1	testis_C3H_rep2-piC_79	42389
+
+## mus_musculus_c3hhej ref query coordinates:4	135960113	135992011	1	testis_C3H_rep2-piC_89
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	129095645	129097798	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	137824697	137826847	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	137717973	137720123	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	150859010	150861141	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	131241130	131243279	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	132322981	132330897	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	146532314	146534444	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	135960113	135962243	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	132559684	132561815	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain A/J	A_J_v1	chromosome	4	131908105	131910240	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	135703611	135705741	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	142652862	142654993	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	135021144	135023275	1	testis_C3H_rep2-piC_89	13187
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	136148436	136150571	1	testis_C3H_rep2-piC_89	13187
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	136328521	136330690	1	testis_C3H_rep2-piC_89	13187
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	134092449	134094627	1	testis_C3H_rep2-piC_89	13187
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	134094628	134123045	1	testis_C3H_rep2-piC_89	93246
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	129097799	129124829	1	testis_C3H_rep2-piC_89	93246
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	136330691	136359564	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	137720124	137752622	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	137826848	137857583	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	142654994	142684160	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	135023276	135049131	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	136150572	136176681	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	132561816	132590104	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain A/J	A_J_v1	chromosome	4	131910241	131936062	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	146534445	146560392	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	135962244	135992011	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	132330898	132356340	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	135705742	135735328	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	150861142	150891142	1	testis_C3H_rep2-piC_89	93246
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	131243280	131268838	1	testis_C3H_rep2-piC_89	93246
+
+## mus_musculus_c3hhej ref query coordinates:5	33371041	33396025	1	testis_C3H_rep2-piC_94
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	5	31422259	31448024	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	5	35911604	35936599	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	5	33371041	33396025	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	5	32266102	32291121	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	5	32639970	32664964	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain A/J	A_J_v1	chromosome	5	32114706	32140473	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	5	33343969	33369307	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	5	31711128	31736129	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	5	36750886	36777032	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	5	32848340	32875788	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	5	35095570	35123524	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	5	35096567	35121564	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	5	33193966	33223861	1	testis_C3H_rep2-piC_94	58995
+Mus musculus	strain LP/J	LP_J_v1	chromosome	5	33615213	33643451	1	testis_C3H_rep2-piC_94	58995
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	5	32912409	32939782	1	testis_C3H_rep2-piC_94	58995
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	5	32445444	32473981	1	testis_C3H_rep2-piC_94	58995
+
+## mus_musculus_c3hhej ref query coordinates:5	115422058	115473022	1	testis_C3H_rep2-piC_96
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	5	114354110	114413926	1	testis_C3H_rep2-piC_96	316960
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	5	114959755	115015149	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain LP/J	LP_J_v1	chromosome	5	116536748	116602255	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	5	115969941	116012539	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	5	113466541	113507029	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	5	120479425	120539978	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	5	114420345	114473552	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	5	129535406	129583197	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	5	110262543	110308595	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	5	114978504	115026716	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain A/J	A_J_v1	chromosome	5	111444785	111486472	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	5	112806732	112853399	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	5	111512478	111556024	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	5	125048599	125116140	1	testis_C3H_rep2-piC_96	316960
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	5	115422058	115473022	1	testis_C3H_rep2-piC_96	316960
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	5	110132446	110178018	1	testis_C3H_rep2-piC_96	316960
+
+## mus_musculus_c3hhej ref query coordinates:5	133333084	133343004	1	testis_C3H_rep2-piC_103
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	5	133172119	133182037	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	5	134252640	134262553	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain LP/J	LP_J_v1	chromosome	5	134763637	134773570	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	5	127650612	127660524	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	5	148161709	148171632	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain A/J	A_J_v1	chromosome	5	128592668	128602603	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	5	129945513	129955440	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	5	133333084	133343004	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	5	144828490	144838422	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	5	128558138	128568051	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	5	132765327	132775268	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	5	130166944	130176888	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	5	139400113	139410067	1	testis_C3H_rep2-piC_103	24857
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	5	132465679	132475603	1	testis_C3H_rep2-piC_103	24857
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	5	127497515	127507633	1	testis_C3H_rep2-piC_103	24857
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	5	132650331	132661989	1	testis_C3H_rep2-piC_103	24857
+
+## mus_musculus_c3hhej ref query coordinates:6	129847287	129927656	1	testis_C3H_rep2-piC_125
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	6	130074815	130160579	1	testis_C3H_rep2-piC_125	167296
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	6	123467858	123553797	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	6	124111449	124191454	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	6	143818926	143903037	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	6	125186138	125265420	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	6	129847287	129927656	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	6	139910271	139993184	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	6	125859212	125938564	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain A/J	A_J_v1	chromosome	6	126296210	126374982	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	6	129701046	129780189	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	6	127749311	127828392	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	6	134738226	134824027	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	6	129684304	129765338	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain LP/J	LP_J_v1	chromosome	6	131403522	131486556	1	testis_C3H_rep2-piC_125	167296
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	6	131308865	131396380	1	testis_C3H_rep2-piC_125	167296
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	6	130053921	130136366	1	testis_C3H_rep2-piC_125	167296
+
+## mus_musculus_c3hhej ref query coordinates:7	71941182	72028022	1	testis_C3H_rep2-piC_140
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	74251713	74342823	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	69521491	69609336	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	70616463	70710748	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	71216590	71305280	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	68430957	68519518	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	71941182	72028022	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	76610509	76708074	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain A/J	A_J_v1	chromosome	7	69746779	69834575	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	69488426	69576030	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	76851087	76942709	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	68544397	68633142	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	71272530	71360672	1	testis_C3H_rep2-piC_140	182925
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	72452338	72539393	1	testis_C3H_rep2-piC_140	182925
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	70967556	71057653	1	testis_C3H_rep2-piC_140	182925
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	61533728	61621402	1	testis_C3H_rep2-piC_140	182925
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	62683118	62773847	1	testis_C3H_rep2-piC_140	182925
+
+## mus_musculus_c3hhej ref query coordinates:7	75938772	76042978	1	testis_C3H_rep2-piC_142
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	66765482	66884076	1	testis_C3H_rep2-piC_142	245361
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	65449885	65559922	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	78429484	78538739	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	73396501	73501155	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	74640539	74750753	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	81144481	81250658	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	72341158	72444249	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	75173087	75286968	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain A/J	A_J_v1	chromosome	7	73624213	73729710	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	73374848	73479264	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	72288873	72393885	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	75938772	76042978	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	80995317	81103783	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	75327948	75437188	1	testis_C3H_rep2-piC_142	245361
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	76547204	76656114	1	testis_C3H_rep2-piC_142	245361
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	74991581	75099998	1	testis_C3H_rep2-piC_142	245361
+
+## mus_musculus_c3hhej ref query coordinates:7	84693243	84698525	1	testis_C3H_rep2-piC_145
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	75644775	75651936	1	testis_C3H_rep2-piC_145	89355
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	74000949	74004155	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	80727860	80737214	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	90516651	90524477	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	80789197	80794581	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	84693243	84698525	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	90465482	90475008	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	81918617	81926390	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain A/J	A_J_v1	chromosome	7	82263230	82270084	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	84098743	84117070	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	87548105	87557388	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	81815168	81824512	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	83508433	83515726	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	84261440	84277047	1	testis_C3H_rep2-piC_145	89355
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	85477114	85501508	1	testis_C3H_rep2-piC_145	89355
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	83868150	83880699	1	testis_C3H_rep2-piC_145	89355
+
+## mus_musculus_c3hhej ref query coordinates:7	112440070	112445891	1	testis_C3H_rep2-piC_147
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	103968219	103974047	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	112401386	112407207	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	120952836	120958657	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	112440070	112445891	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	107777059	107782880	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	109366454	109372275	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain A/J	A_J_v1	chromosome	7	109668810	109674631	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	107623184	107629005	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	122625411	122631240	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	117131587	117137408	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	108628506	108634327	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	111427526	111433352	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	113991355	113997176	1	testis_C3H_rep2-piC_147	6434
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	112432703	112438524	1	testis_C3H_rep2-piC_147	6434
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	112260860	112266686	1	testis_C3H_rep2-piC_147	6434
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	100580169	100585992	1	testis_C3H_rep2-piC_147	6434
+
+## mus_musculus_c3hhej ref query coordinates:7	129264829	129289872	1	testis_C3H_rep2-piC_151
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	117107036	117132471	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	129547347	129573773	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	131009607	131035256	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	139130867	139157845	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	129264829	129289872	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	124126305	124154957	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain A/J	A_J_v1	chromosome	7	126157276	126182072	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	125808206	125833233	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	129353688	129378565	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	140390139	140417695	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	123966861	123991810	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	124940929	124966365	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	134626285	134651255	1	testis_C3H_rep2-piC_151	78511
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	128341716	128367784	1	testis_C3H_rep2-piC_151	78511
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	129316721	129341534	1	testis_C3H_rep2-piC_151	78511
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	121055629	121076865	1	testis_C3H_rep2-piC_151	78511
+
+## mus_musculus_c3hhej ref query coordinates:9	231294	236694	1	testis_C3H_rep2-piC_176
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	329929	332097	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	208332	210470	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64784	66922	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	122867	125008	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	233033	235167	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	79317	81473	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	231294	233432	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain A/J	A_J_v1	chromosome	9	230001	232139	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	77792	79930	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	176680	178818	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	3385744	3387882	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	62567	64705	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	89413	91551	1	testis_C3H_rep2-piC_176	2782
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	83293	85431	1	testis_C3H_rep2-piC_176	2782
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	87467	89611	1	testis_C3H_rep2-piC_176	2782
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	370150	372498	1	testis_C3H_rep2-piC_176	2782
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	332098	335369	1	testis_C3H_rep2-piC_176	5283
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	89612	92873	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	91552	94779	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	85432	88693	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	235168	238429	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	81474	84736	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	233433	236694	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	79931	83192	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain A/J	A_J_v1	chromosome	9	232140	235468	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	125009	128270	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	66923	70184	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	210471	213732	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	3387883	3391144	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	178819	182673	1	testis_C3H_rep2-piC_176	5283
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	64706	67967	1	testis_C3H_rep2-piC_176	5283
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	372499	375874	1	testis_C3H_rep2-piC_176	5283
+
+## mus_musculus_c3hhej ref query coordinates:9	29172006	29176956	1	testis_C3H_rep2-piC_180
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	28184593	28189660	1	testis_C3H_rep2-piC_180	9839
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	28554417	28559368	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	29164208	29169158	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	28942396	28947346	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	27654072	27659022	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	32574063	32579013	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	28809476	28814426	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	28248847	28253797	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	29172006	29176956	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	30923793	30928833	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain A/J	A_J_v1	chromosome	9	28243454	28248404	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	28108548	28113498	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	28812536	28817576	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	31186024	31190974	1	testis_C3H_rep2-piC_180	9839
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	29940705	29946324	1	testis_C3H_rep2-piC_180	9839
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	29030135	29035121	1	testis_C3H_rep2-piC_180	9839
+
+## mus_musculus_c3hhej ref query coordinates:9	53173000	53269985	1	testis_C3H_rep2-piC_184
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	53184345	53188194	1	testis_C3H_rep2-piC_184	7294
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	51401490	51405606	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	52700859	52704739	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	54106326	54110215	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	54736072	54739962	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	58183942	58187823	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	50624868	50628749	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	52696043	52699933	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	51428346	51432256	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	56608078	56611953	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	53173000	53177745	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	51306802	51310674	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain A/J	A_J_v1	chromosome	9	51542908	51546779	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	53238238	53242098	1	testis_C3H_rep2-piC_184	7294
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	53542921	53546781	1	testis_C3H_rep2-piC_184	7294
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	52680372	52684240	1	testis_C3H_rep2-piC_184	7294
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	52684241	52781712	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	53242099	53337482	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	53546782	53647128	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	54110216	54205202	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	54739963	54829478	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	52704740	52798925	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	50628750	50720944	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	58187824	58286397	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	52699934	52795554	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	51432257	51527776	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	53177746	53269985	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	56611954	56704249	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	51310675	51405925	1	testis_C3H_rep2-piC_184	223356
+Mus musculus	strain A/J	A_J_v1	chromosome	9	51546780	51637528	1	testis_C3H_rep2-piC_184	223356
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	51405607	51498753	1	testis_C3H_rep2-piC_184	223356
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	53188195	53283591	1	testis_C3H_rep2-piC_184	223356
+
+## mus_musculus_c3hhej ref query coordinates:9	67360296	67453984	1	testis_C3H_rep2-piC_185
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	65250789	65290960	1	testis_C3H_rep2-piC_185	119770
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	66823115	66865901	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	67862066	67900146	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	67585356	67626712	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	67360296	67399812	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	71827122	71866400	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	65013636	65051199	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	65002621	65042331	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain A/J	A_J_v1	chromosome	9	65266072	65305586	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	66810871	66852208	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	73007781	73046406	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64355157	64393430	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	66933347	66973831	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	69439209	69478273	1	testis_C3H_rep2-piC_185	119770
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	67586802	67625035	1	testis_C3H_rep2-piC_185	119770
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	67586390	67620084	1	testis_C3H_rep2-piC_185	119770
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	67620085	67675846	1	testis_C3H_rep2-piC_185	96061
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	66865902	66921802	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	67900147	67955177	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	67626713	67682062	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	66973832	67026780	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	69478274	69533371	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain A/J	A_J_v1	chromosome	9	65305587	65357404	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	65042332	65094643	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	65051200	65104102	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	71866401	71920212	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	67399813	67451317	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	66852209	66903720	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	73046407	73099109	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64393431	64444910	1	testis_C3H_rep2-piC_185	96061
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	65290961	65344107	1	testis_C3H_rep2-piC_185	96061
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	67955178	67959202	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	67682063	67686245	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	66903721	66907008	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain A/J	A_J_v1	chromosome	9	65357405	65360076	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	65094644	65097351	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	65104103	65106766	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	67451318	67453984	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	71920213	71922864	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64444911	64447673	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	73099110	73102395	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	69533372	69536058	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	67676585	67679334	1	testis_C3H_rep2-piC_185	10867
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	67026781	67031471	1	testis_C3H_rep2-piC_185	10867
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	66921803	66925180	1	testis_C3H_rep2-piC_185	10867
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	65344108	65346872	1	testis_C3H_rep2-piC_185	10867
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	67675847	67679447	1	testis_C3H_rep2-piC_185	10867
+
+## mus_musculus_c3hhej ref query coordinates:9	115862534	115880932	1	testis_C3H_rep2-piC_192
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	115595169	115631514	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	112282565	112301979	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	111960039	111979901	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	115862534	115880932	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	124408266	124466681	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	115347845	115375744	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	125665230	125716180	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	119955601	119976121	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	114177785	114197755	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	115705468	115725733	1	testis_C3H_rep2-piC_192	169964
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	117094221	117124190	1	testis_C3H_rep2-piC_192	169964
+
+## mus_musculus_c3hhej ref query coordinates:10	65906163	65946978	1	testis_C3H_rep2-piC_204
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	10	65943116	65977061	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain A/J	A_J_v1	chromosome	10	64179018	64211351	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	10	64375543	64409515	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	10	63540975	63572524	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	10	65906163	65946978	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	10	71399438	71440291	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	10	65928086	65967846	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	10	73667685	73705139	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	10	62723407	62754270	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	10	68796373	68836646	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	10	66517903	66548268	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	10	65813129	65857740	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain LP/J	LP_J_v1	chromosome	10	66787673	66819771	1	testis_C3H_rep2-piC_204	194438
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	10	66367163	66405045	1	testis_C3H_rep2-piC_204	194438
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	10	65731691	65764312	1	testis_C3H_rep2-piC_204	194438
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	10	63346925	63385252	1	testis_C3H_rep2-piC_204	194438
+
+## mus_musculus_c3hhej ref query coordinates:10	81448220	81479880	1	testis_C3H_rep2-piC_212
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	10	82081559	82112924	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain LP/J	LP_J_v1	chromosome	10	82530636	82559819	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	10	77628553	77659238	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	10	90055513	90087749	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	10	81347802	81378552	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	10	79392858	79422764	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain A/J	A_J_v1	chromosome	10	79173017	79203187	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	10	88214580	88246274	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	10	81448220	81479880	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	10	78377509	78406983	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	10	81357425	81388666	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	10	84900353	84931656	1	testis_C3H_rep2-piC_212	65193
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	10	81205039	81234442	1	testis_C3H_rep2-piC_212	65193
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	10	81392223	81421459	1	testis_C3H_rep2-piC_212	65193
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	10	78271795	78301685	1	testis_C3H_rep2-piC_212	65193
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	10	81680195	81709819	1	testis_C3H_rep2-piC_212	65193
+
+## mus_musculus_c3hhej ref query coordinates:10	87044606	87060842	1	testis_C3H_rep2-piC_218
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	10	86844643	86860855	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain LP/J	LP_J_v1	chromosome	10	88222415	88251355	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	10	87025004	87039368	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	10	83736376	83754845	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	10	87044606	87058100	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	10	94249968	94266162	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain A/J	A_J_v1	chromosome	10	84621002	84652567	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	10	84915475	84929301	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	10	95853155	95872673	1	testis_C3H_rep2-piC_218	179697
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	10	95872674	95874641	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	10	94266163	94349974	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	10	87058101	87060842	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	10	83754846	83764478	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain A/J	A_J_v1	chromosome	10	84652568	84655050	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	10	84929302	84934646	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	10	87039369	87057748	1	testis_C3H_rep2-piC_218	132782
+Mus musculus	strain LP/J	LP_J_v1	chromosome	10	88251983	88265454	1	testis_C3H_rep2-piC_218	132782
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	10	86861483	86863331	1	testis_C3H_rep2-piC_218	132782
+
+## mus_musculus_c3hhej ref query coordinates:11	59141542	59158004	1	testis_C3H_rep2-piC_228
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	57611510	57628608	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	60225702	60242091	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	59627143	59643531	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	59298506	59316456	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	61517577	61536296	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	59667677	59684057	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	65306359	65322838	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	56674890	56691265	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	59274368	59291868	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain A/J	A_J_v1	chromosome	11	57352581	57369044	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	57701369	57717748	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	64203930	64220393	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	59141542	59158004	1	testis_C3H_rep2-piC_228	34510
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	57016321	57032709	1	testis_C3H_rep2-piC_228	34510
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	58978268	58994853	1	testis_C3H_rep2-piC_228	34510
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	59283830	59300310	1	testis_C3H_rep2-piC_228	34510
+
+## mus_musculus_c3hhej ref query coordinates:11	60249000	60267274	1	testis_C3H_rep2-piC_229
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	60347380	60364737	1	testis_C3H_rep2-piC_229	33407
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	58623211	58640900	1	testis_C3H_rep2-piC_229	33407
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	60024058	60041869	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	66401323	66420077	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	57706303	57723666	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	60309734	60327689	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	60249000	60267274	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	65338171	65355528	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	58043158	58060643	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain A/J	A_J_v1	chromosome	11	58458349	58475706	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	58753838	58771335	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	60404248	60421910	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	62612783	62632582	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	60664221	60681719	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	61269505	61286828	1	testis_C3H_rep2-piC_229	33407
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	60692305	60709998	1	testis_C3H_rep2-piC_229	33407
+
+## mus_musculus_c3hhej ref query coordinates:11	69218001	69226680	1	testis_C3H_rep2-piC_232
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	69453189	69462637	1	testis_C3H_rep2-piC_232	54797
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	67421943	67432252	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	70387212	70395367	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	69815858	69825256	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	69197005	69208379	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	67507075	67517208	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain A/J	A_J_v1	chromosome	11	67188136	67198207	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	66782869	66789135	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	69218001	69226680	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	75147110	75161471	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	75762608	75774269	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	66406833	66416065	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	69445313	69457574	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	71930933	71939187	1	testis_C3H_rep2-piC_232	54797
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	69279588	69287502	1	testis_C3H_rep2-piC_232	54797
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	69128614	69136736	1	testis_C3H_rep2-piC_232	54797
+
+## mus_musculus_c3hhej ref query coordinates:12	99170302	99249393	1	testis_C3H_rep2-piC_258
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	12	90051025	90131000	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	12	99757620	99842380	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain LP/J	LP_J_v1	chromosome	12	99582902	99664391	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	12	94162784	94245000	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	12	110328528	110413723	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	12	106614633	106701102	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	12	99170302	99249393	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	12	95436773	95518039	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	12	96348808	96436082	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain A/J	A_J_v1	chromosome	12	96023306	96106931	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	12	98623627	98703812	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	12	98345221	98424641	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	12	102812520	102903612	1	testis_C3H_rep2-piC_258	195926
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	12	98184426	98267173	1	testis_C3H_rep2-piC_258	195926
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	12	99002347	99084982	1	testis_C3H_rep2-piC_258	195926
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	12	94211186	94292011	1	testis_C3H_rep2-piC_258	195926
+
+## mus_musculus_c3hhej ref query coordinates:14	25799073	25811573	1	testis_C3H_rep2-piC_275
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	14	25601173	25615950	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	14	25755339	25767757	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain LP/J	LP_J_v1	chromosome	14	26073544	26084207	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	14	25712512	25724631	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	14	32224444	32235697	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	14	26779459	26793059	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	14	25923577	25939255	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	14	24798199	24809201	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	14	27777424	27788029	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	14	25799073	25811573	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	14	24952907	24964493	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain A/J	A_J_v1	chromosome	14	24769999	24781790	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	14	24762947	24774318	1	testis_C3H_rep2-piC_275	40668
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	14	26989097	27004299	1	testis_C3H_rep2-piC_275	40668
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	14	25776178	25788103	1	testis_C3H_rep2-piC_275	40668
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	14	24281301	24294741	1	testis_C3H_rep2-piC_275	40668
+
+## mus_musculus_c3hhej ref query coordinates:14	56277669	56286984	1	testis_C3H_rep2-piC_278
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	14	52672350	52681506	1	testis_C3H_rep2-piC_278	19274
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	14	51023032	51032364	1	testis_C3H_rep2-piC_278	19274
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	14	56107803	56117141	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain LP/J	LP_J_v1	chromosome	14	56946658	56955973	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	14	55911964	55921279	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	14	61762232	61771564	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	14	58633592	58642924	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	14	55793115	55802447	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	14	60320736	60330074	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	14	56277669	56286984	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	14	54353873	54363188	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	14	54649478	54658822	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain A/J	A_J_v1	chromosome	14	54690368	54699706	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	14	56641656	56650994	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	14	59626240	59635572	1	testis_C3H_rep2-piC_278	19274
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	14	53776212	53785544	1	testis_C3H_rep2-piC_278	19274
+
+## mus_musculus_c3hhej ref query coordinates:14	71650169	71657952	1	testis_C3H_rep2-piC_282
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	14	68360918	68367855	1	testis_C3H_rep2-piC_282	15526
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	14	66006429	66013819	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	14	68590055	68597120	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	14	75694781	75703793	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	14	69245030	69253379	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	14	77015772	77022764	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	14	71650169	71657952	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	14	69653164	69660123	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain A/J	A_J_v1	chromosome	14	69847991	69855438	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	14	71930128	71937087	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	14	71207514	71214478	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	14	74615479	74622412	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	14	76810859	76817818	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain LP/J	LP_J_v1	chromosome	14	72635136	72642054	1	testis_C3H_rep2-piC_282	15526
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	14	71513045	71520812	1	testis_C3H_rep2-piC_282	15526
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	14	71561277	71568235	1	testis_C3H_rep2-piC_282	15526
+
+## mus_musculus_c3hhej ref query coordinates:15	15207463	15213798	1	testis_C3H_rep2-piC_284
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	15	15510451	15513214	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	15	15381490	15384875	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain LP/J	LP_J_v1	chromosome	15	15323243	15325489	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	15	15294317	15298844	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	15	16014367	16019895	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	15	17821246	17826382	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	15	14670726	14677762	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	15	15207463	15213798	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	15	16537978	16546163	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	15	14839858	14845857	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain A/J	A_J_v1	chromosome	15	14833520	14837606	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	15	15223889	15228997	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	15	14373471	14378294	1	testis_C3H_rep2-piC_284	71602
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	15	17768911	17771882	1	testis_C3H_rep2-piC_284	71602
+
+## The query region (testis_C3H_rep2-piC_284) has thrown some exception.Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	15	14905978	14911422	1	testis_C3H_rep2-piC_284	71602
+
+## mus_musculus_c3hhej ref query coordinates:17	26084010	26105024	1	testis_C3H_rep2-piC_317
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	26013483	26034848	1	testis_C3H_rep2-piC_317	44757
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	23925791	23947192	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	26375756	26396878	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	26624063	26645198	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	27344265	27365449	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	27493426	27514850	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	26083985	26105300	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	27961925	27983050	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	24910443	24931545	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	25709612	25730738	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	25132015	25153057	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	28447025	28469701	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	26084010	26105024	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain A/J	A_J_v1	chromosome	17	25569874	25590893	1	testis_C3H_rep2-piC_317	44757
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	25812779	25833983	1	testis_C3H_rep2-piC_317	44757
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	26110687	26131802	1	testis_C3H_rep2-piC_317	44757
+
+## mus_musculus_c3hhej ref query coordinates:17	26262006	26360906	1	testis_C3H_rep2-piC_319
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	26174958	26297599	1	testis_C3H_rep2-piC_319	492114
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	24079347	24175731	1	testis_C3H_rep2-piC_319	492114
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	26271029	26376521	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	25872818	25983934	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	25963938	26081747	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain A/J	A_J_v1	chromosome	17	25722015	25825759	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	25285818	25386966	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	26262006	26360906	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	28616881	28738138	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	28136865	28244193	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	25069346	25171903	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	27652407	27771951	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	27494281	27593315	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	26238381	26371708	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	26792215	26926650	1	testis_C3H_rep2-piC_319	492114
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	26544750	26655724	1	testis_C3H_rep2-piC_319	492114
+
+## mus_musculus_c3hhej ref query coordinates:17	26537092	26578789	1	testis_C3H_rep2-piC_320
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	26852758	26897969	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	27113625	27158036	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	26566121	26619185	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	27762767	27802412	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	27959259	28012819	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	26163872	26210223	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	25561661	25608284	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	28927624	28977382	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	26537092	26578789	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	26279281	26320359	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain A/J	A_J_v1	chromosome	17	26001604	26046748	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	28420965	28468615	1	testis_C3H_rep2-piC_320	183468
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	25348727	25391675	1	testis_C3H_rep2-piC_320	183468
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	26554947	26602583	1	testis_C3H_rep2-piC_320	183468
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	24349784	24394856	1	testis_C3H_rep2-piC_320	183468
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	26484944	26531401	1	testis_C3H_rep2-piC_320	183468
+
+## mus_musculus_c3hhej ref query coordinates:17	39596581	39606910	1	testis_C3H_rep2-piC_324
+
+## Query region (testis_C3H_rep2-piC_324) is not in an alignment block
+
+## mus_musculus_c3hhej ref query coordinates:17	68094618	68193029	1	testis_C3H_rep2-piC_327
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	68451614	68551028	1	testis_C3H_rep2-piC_327	609059
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	68366562	68455697	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	67201795	67301958	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	73743605	73850550	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	68094618	68187485	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	65022714	65112661	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain A/J	A_J_v1	chromosome	17	66278778	66377502	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	66226851	66327599	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	73829588	73939345	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	64510603	64604051	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	66455670	66539362	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	70951471	71048035	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	67659453	67746563	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	68334560	68442263	1	testis_C3H_rep2-piC_327	609059
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	69040799	69146997	1	testis_C3H_rep2-piC_327	609059
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	64304899	64406814	1	testis_C3H_rep2-piC_327	609059
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	64406815	64411918	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	64604052	64609532	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	73939346	73948845	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	67301959	67307451	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain A/J	A_J_v1	chromosome	17	66377503	66382998	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	66327600	66333402	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	65112662	65118149	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	68187486	68193029	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	73850551	73860967	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	66539363	66544869	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	71048036	71056470	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	67746564	67752030	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	68442264	68449812	1	testis_C3H_rep2-piC_327	31004
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	69146998	69154898	1	testis_C3H_rep2-piC_327	31004
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	68455698	68462247	1	testis_C3H_rep2-piC_327	31004
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	68551029	68556512	1	testis_C3H_rep2-piC_327	31004
+
+## mus_musculus_c3hhej ref query coordinates:17	68682000	68702000	1	testis_C3H_rep2-piC_328
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	69048823	69069747	1	testis_C3H_rep2-piC_328	40403
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	64882467	64901457	1	testis_C3H_rep2-piC_328	40403
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	68983981	69003861	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	67800125	67819450	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain A/J	A_J_v1	chromosome	17	66850847	66870466	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	66806176	66825460	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	65581331	65600584	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	68682000	68702000	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	74391888	74414899	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	65076202	65095426	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	74458353	74478633	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	67016920	67035989	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	71567172	71586030	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	68228030	68246790	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	68945155	68964967	1	testis_C3H_rep2-piC_328	40403
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	69654152	69673059	1	testis_C3H_rep2-piC_328	40403
+
+## mus_musculus_c3hhej ref query coordinates:18	53695156	53704625	1	testis_C3H_rep2-piC_332
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	18	53711266	53721746	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	18	53695156	53704625	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	18	57654822	57666270	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	18	51778237	51788170	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain A/J	A_J_v1	chromosome	18	52084501	52094232	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	18	52267404	52276993	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	18	53524241	53533616	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	18	59393255	59405182	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	18	51200928	51210678	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	18	53585016	53594465	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	18	55963871	55974625	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	18	55082001	55091716	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain LP/J	LP_J_v1	chromosome	18	54202913	54213468	1	testis_C3H_rep2-piC_332	24990
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	18	54189400	54202257	1	testis_C3H_rep2-piC_332	24990
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	18	53529961	53540195	1	testis_C3H_rep2-piC_332	24990
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	18	51795902	51805829	1	testis_C3H_rep2-piC_332	24990
+
+## mus_musculus_c3hhej ref query coordinates:18	66384128	66470869	1	testis_C3H_rep2-piC_334
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	18	66365264	66448064	1	testis_C3H_rep2-piC_334	438479
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	18	64269596	64345305	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	18	72702890	72807458	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	18	63371010	63443609	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	18	66182252	66309835	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	18	66384128	66469128	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	18	71409199	71509363	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	18	63994100	64072322	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain A/J	A_J_v1	chromosome	18	64325012	64407363	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	18	64494932	64578525	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	18	66391449	66470431	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	18	67158239	67231348	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	18	69071035	69153321	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	18	67271113	67356218	1	testis_C3H_rep2-piC_334	438479
+Mus musculus	strain LP/J	LP_J_v1	chromosome	18	67118312	67217296	1	testis_C3H_rep2-piC_334	438479
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	18	66269321	66350145	1	testis_C3H_rep2-piC_334	438479
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	18	64345306	64347045	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	18	67356219	67359378	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain LP/J	LP_J_v1	chromosome	18	67217297	67219037	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	18	63443610	63445349	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	18	72807459	72809235	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	18	66469129	66470869	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	18	71509364	71514389	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	18	64072323	64074097	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	18	64578526	64580265	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain A/J	A_J_v1	chromosome	18	64407364	64409205	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	18	66309836	66311575	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	18	66470432	66472204	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	18	69153322	69155061	1	testis_C3H_rep2-piC_334	7457
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	18	67231349	67233088	1	testis_C3H_rep2-piC_334	7457
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	18	66350146	66351885	1	testis_C3H_rep2-piC_334	7457
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	18	66448065	66449804	1	testis_C3H_rep2-piC_334	7457
+
+## mus_musculus_c3hhej ref query coordinates:18	76610791	76617013	1	testis_C3H_rep2-piC_335
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	18	76867563	76872141	1	testis_C3H_rep2-piC_335	6635
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	18	74296332	74301454	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	18	77699164	77703739	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain LP/J	LP_J_v1	chromosome	18	77577646	77582221	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	18	73242403	73246977	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	18	83833159	83837716	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	18	82544845	82549420	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	18	76610791	76615366	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	18	73887571	73892033	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	18	74525923	74530480	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain A/J	A_J_v1	chromosome	18	74298780	74303337	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	18	76503269	76507826	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	18	79742808	79747373	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	18	77058379	77062936	1	testis_C3H_rep2-piC_335	6635
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	18	76653810	76658367	1	testis_C3H_rep2-piC_335	6635
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	18	76621750	76626227	1	testis_C3H_rep2-piC_335	6635
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	18	76872150	76873805	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	18	83837725	83839382	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	18	73246986	73248630	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	18	82549421	82551067	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	18	76615367	76617013	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	18	73892034	73893672	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	18	74530489	74532133	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain A/J	A_J_v1	chromosome	18	74303346	74305038	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	18	76507835	76509479	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	18	79747382	79749026	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	18	77062945	77064589	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	18	76660204	76661848	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain LP/J	LP_J_v1	chromosome	18	77582230	77583868	1	testis_C3H_rep2-piC_335	2294
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	18	77703748	77705386	1	testis_C3H_rep2-piC_335	2294
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	18	76626236	76627874	1	testis_C3H_rep2-piC_335	2294
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	18	74301678	74303321	1	testis_C3H_rep2-piC_335	2294

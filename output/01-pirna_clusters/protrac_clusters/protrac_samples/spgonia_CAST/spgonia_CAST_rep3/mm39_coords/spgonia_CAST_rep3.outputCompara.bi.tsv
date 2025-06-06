@@ -1,0 +1,645 @@
+
+## mus_musculus_casteij ref query coordinates:1	164126022	164133812	1	spgonia_CAST_rep3-piC_19
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	1	164126022	164133812	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	1	164325062	164333436	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	1	166215930	166223726	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain LP/J	LP_J_v1	chromosome	1	167307357	167315151	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	1	185513428	185521150	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	1	156838415	156846969	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	1	159994492	160002278	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain A/J	A_J_v1	chromosome	1	159451413	159459206	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	1	158430858	158438617	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	1	164517740	164525529	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	1	177931062	177938697	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	1	164319009	164326796	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	1	164136257	164144047	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	1	160795891	160803681	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	1	171856709	171870568	1	spgonia_CAST_rep3-piC_19	18171
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	1	157578939	157586802	1	spgonia_CAST_rep3-piC_19	18171
+
+## mus_musculus_casteij ref query coordinates:1	191668121	191675971	1	spgonia_CAST_rep3-piC_27
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	1	191668121	191675971	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	1	183819434	183827567	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	1	193771835	193780461	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain LP/J	LP_J_v1	chromosome	1	194945081	194952921	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	1	191215069	191222898	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	1	199950503	199960913	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	1	186696820	186704649	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	1	214235510	214244737	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	1	182683798	182691834	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain A/J	A_J_v1	chromosome	1	185837891	185845727	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	1	186513847	186521676	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	1	184603978	184611816	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	1	192180007	192187836	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	1	207414228	207422060	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	1	191308271	191316107	1	spgonia_CAST_rep3-piC_27	14169
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	1	191385809	191393632	1	spgonia_CAST_rep3-piC_27	14169
+
+## mus_musculus_casteij ref query coordinates:2	151947152	151956072	1	spgonia_CAST_rep3-piC_53
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	2	151947152	151956072	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	2	151065349	151074263	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	2	148532627	148541541	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	2	157503896	157512810	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	2	151556832	151565746	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	2	163279989	163288903	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	2	146083704	146092618	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain A/J	A_J_v1	chromosome	2	146816370	146825284	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	2	147246412	147255326	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	2	151055076	151063990	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	2	167317753	167326603	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	2	144578197	144587127	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain LP/J	LP_J_v1	chromosome	2	153173903	153182817	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	2	153038858	153047772	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	2	152004742	152013614	1	spgonia_CAST_rep3-piC_53	13196
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	2	145757265	145766131	1	spgonia_CAST_rep3-piC_53	13196
+
+## mus_musculus_casteij ref query coordinates:4	59050051	59076325	1	spgonia_CAST_rep3-piC_75
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	59050051	59076325	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	57311995	57341073	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	60686062	60714376	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	58081838	58114338	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	68613501	68658962	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	58845638	58867893	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	65465183	65511331	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	61108950	61137795	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain A/J	A_J_v1	chromosome	4	58963773	58998835	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	59145008	59179550	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	60613287	60643146	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	60712091	60745952	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	63294343	63326110	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	62134840	62164437	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	61194231	61224564	1	spgonia_CAST_rep3-piC_75	272393
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	61455704	61508402	1	spgonia_CAST_rep3-piC_75	272393
+
+## mus_musculus_casteij ref query coordinates:4	131256526	131265869	1	spgonia_CAST_rep3-piC_90
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	131256526	131265869	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	133513050	133522345	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	133345636	133356969	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	132446523	132455826	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	139772594	139783125	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain A/J	A_J_v1	chromosome	4	129284235	129293772	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	129901165	129912302	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	129701848	129712571	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	133188898	133200087	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	143349872	143362049	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	132925201	132936596	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	147944443	147954747	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	128562898	128572189	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	135050146	135061133	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	134901908	134912141	1	spgonia_CAST_rep3-piC_90	31864
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	126399820	126409785	1	spgonia_CAST_rep3-piC_90	31864
+
+## mus_musculus_casteij ref query coordinates:4	134048317	134054015	1	spgonia_CAST_rep3-piC_92
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	129048370	129054462	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	137778596	137785430	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	137671413	137677854	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	150809484	150817258	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	131199371	131205117	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	132282782	132288550	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	146409971	146415306	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	135911096	135916483	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	132516921	132522616	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain A/J	A_J_v1	chromosome	4	131865633	131871208	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	135653520	135661022	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	142601757	142612008	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	134979717	134985499	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	136105249	136110752	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	136274379	136280964	1	spgonia_CAST_rep3-piC_92	20597
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	134048317	134054015	1	spgonia_CAST_rep3-piC_92	20597
+
+## mus_musculus_casteij ref query coordinates:4	134215025	134228486	1	spgonia_CAST_rep3-piC_93
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	4	134215025	134228486	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	4	129211435	129224976	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	4	136447943	136462028	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	4	137841102	137853770	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain LP/J	LP_J_v1	chromosome	4	137946065	137963769	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	4	142776409	142789483	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	4	135133733	135146823	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	4	136265052	136280439	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	4	132677811	132690929	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain A/J	A_J_v1	chromosome	4	132023942	132037732	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	4	146664995	146678205	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	4	136098828	136111800	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	4	132442087	132455023	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	4	135825921	135843491	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	4	150985012	150997980	1	spgonia_CAST_rep3-piC_93	36288
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	4	131361154	131374081	1	spgonia_CAST_rep3-piC_93	36288
+
+## mus_musculus_casteij ref query coordinates:5	114353003	114416956	1	spgonia_CAST_rep3-piC_105
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	5	114353003	114416956	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	5	114958464	115023030	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain LP/J	LP_J_v1	chromosome	5	116535282	116605185	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	5	115968729	116034427	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	5	113465292	113510013	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	5	120477917	120542962	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	5	114418837	114476536	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	5	129534180	129604507	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	5	110261453	110318225	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	5	114977250	115029700	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain A/J	A_J_v1	chromosome	5	111443535	111489401	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	5	112805498	112856327	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	5	111511320	111559009	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	5	125047377	125119129	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	5	115418824	115494554	1	spgonia_CAST_rep3-piC_105	397062
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	5	110131337	110181006	1	spgonia_CAST_rep3-piC_105	397062
+
+## mus_musculus_casteij ref query coordinates:5	115027083	115035912	1	spgonia_CAST_rep3-piC_106
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	5	115027083	115035912	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	5	110750376	110757705	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	5	116634541	116641936	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain LP/J	LP_J_v1	chromosome	5	117198447	117205877	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	5	116103891	116111200	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	5	125719172	125726467	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	5	112122844	112130125	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain A/J	A_J_v1	chromosome	5	112060615	112068788	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	5	113429284	113436673	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	5	115619955	115627280	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	5	110913296	110920628	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	5	130228233	130235625	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	5	121148227	121155923	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	5	114074619	114082008	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	5	115068902	115076947	1	spgonia_CAST_rep3-piC_106	14390
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	5	115635683	115642986	1	spgonia_CAST_rep3-piC_106	14390
+
+## mus_musculus_casteij ref query coordinates:6	60591871	60597136	1	spgonia_CAST_rep3-piC_125
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	6	60591871	60597136	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	6	57445532	57451379	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain LP/J	LP_J_v1	chromosome	6	61180612	61185846	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	6	61208354	61213316	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	6	60373740	60386412	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	6	62620924	62624466	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	6	61421679	61434338	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	6	60464848	60468918	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain A/J	A_J_v1	chromosome	6	58535711	58543158	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	6	58943050	58947244	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	6	58258151	58268240	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	6	60512208	60517710	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	6	65174112	65183004	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	6	68166181	68174372	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	6	57808270	57820929	1	spgonia_CAST_rep3-piC_125	74801
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	6	60667760	60670711	1	spgonia_CAST_rep3-piC_125	74801
+
+## mus_musculus_casteij ref query coordinates:6	122709425	122718974	1	spgonia_CAST_rep3-piC_138
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	6	122709425	122718974	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	6	122572788	122582334	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	6	123804110	123813639	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain LP/J	LP_J_v1	chromosome	6	123796887	123806416	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	6	135988128	135997657	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	6	117065790	117075335	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	6	122262844	122272373	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	6	132017014	132026543	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	6	122280886	122290415	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	6	117928803	117938348	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain A/J	A_J_v1	chromosome	6	119043055	119052584	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	6	118799358	118808887	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	6	120862731	120872276	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	6	126975893	126985438	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	6	122279807	122289352	1	spgonia_CAST_rep3-piC_138	12125
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	6	116969025	116978567	1	spgonia_CAST_rep3-piC_138	12125
+
+## mus_musculus_casteij ref query coordinates:6	130082871	130143580	1	spgonia_CAST_rep3-piC_140
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	6	130082871	130143580	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	6	123475362	123535401	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	6	124118871	124178746	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	6	143825989	143888623	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	6	125193171	125252753	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	6	129854368	129914572	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	6	139919479	139980893	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	6	125866246	125925863	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain A/J	A_J_v1	chromosome	6	126303188	126362668	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	6	129708113	129767911	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	6	127756368	127816128	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	6	134747178	134810542	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	6	129691339	129753119	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain LP/J	LP_J_v1	chromosome	6	131410651	131472186	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	6	131317319	131379356	1	spgonia_CAST_rep3-piC_140	106624
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	6	130060978	130122489	1	spgonia_CAST_rep3-piC_140	106624
+
+## mus_musculus_casteij ref query coordinates:7	62710001	62734102	1	spgonia_CAST_rep3-piC_148
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	74281488	74307076	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	69549230	69574131	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	70643479	70675568	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	71244770	71270126	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	68458769	68484342	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	71967281	71992162	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	76642234	76666414	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain A/J	A_J_v1	chromosome	7	69773664	69799371	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	69516131	69540861	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	76879972	76906827	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	68573611	68598062	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	71301262	71325453	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	72478446	72503629	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	70995545	71022467	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	61561310	61586109	1	spgonia_CAST_rep3-piC_148	52686
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	62710001	62734102	1	spgonia_CAST_rep3-piC_148	52686
+
+## mus_musculus_casteij ref query coordinates:7	66806045	66862965	1	spgonia_CAST_rep3-piC_151
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	66806045	66862965	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	65485727	65537956	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	78463724	78518661	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	73428668	73480312	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	74674738	74730204	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	81177140	81228967	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	72372328	72423947	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	75214474	75266477	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain A/J	A_J_v1	chromosome	7	73657232	73708801	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	73406259	73458193	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	72319937	72373558	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	75970241	76022754	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	81025975	81083246	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	75362018	75416611	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	76579341	76634219	1	spgonia_CAST_rep3-piC_151	101975
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	75025420	75079706	1	spgonia_CAST_rep3-piC_151	101975
+
+## mus_musculus_casteij ref query coordinates:7	72595180	72602241	1	spgonia_CAST_rep3-piC_155
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	72595180	72602241	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	71104526	71111654	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	77854029	77861290	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	87453802	87460870	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	81063593	81070656	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	77943919	77950984	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	81729716	81736785	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	87261172	87268236	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain A/J	A_J_v1	chromosome	7	79364934	79372158	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	79063941	79071014	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	80517905	80524963	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	84429718	84436783	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	79009720	79016794	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	81232351	81239414	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	82491195	82498998	1	spgonia_CAST_rep3-piC_155	10158
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	80837848	80844918	1	spgonia_CAST_rep3-piC_155	10158
+
+## mus_musculus_casteij ref query coordinates:7	103968218	103974964	1	spgonia_CAST_rep3-piC_159
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	7	103968218	103974964	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	7	112401385	112408111	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	7	120952835	120959561	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	7	112440069	112446795	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	7	107777058	107783784	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	7	109366453	109373179	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain A/J	A_J_v1	chromosome	7	109668809	109675535	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	7	107623183	107629909	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	7	122625410	122632152	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	7	117131586	117138312	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	7	108628505	108635231	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	7	111427525	111434257	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain LP/J	LP_J_v1	chromosome	7	113991354	113998080	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	7	112432702	112439428	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	7	112260859	112267591	1	spgonia_CAST_rep3-piC_159	7501
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	7	100580168	100586909	1	spgonia_CAST_rep3-piC_159	7501
+
+## mus_musculus_casteij ref query coordinates:8	69163477	69171950	1	spgonia_CAST_rep3-piC_167
+
+## Query region (spgonia_CAST_rep3-piC_167) is not in an alignment block
+
+## mus_musculus_casteij ref query coordinates:8	112785485	112797024	1	spgonia_CAST_rep3-piC_176
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	8	108118384	108130073	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	8	113869243	113881606	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain LP/J	LP_J_v1	chromosome	8	114042002	114053618	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	8	117866185	117880013	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	8	111858545	111870134	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	8	112422799	112434399	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	8	124762389	124774855	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	8	107494227	107505836	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	8	113168377	113180561	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	8	121874647	121888696	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	8	108537559	108549531	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain A/J	A_J_v1	chromosome	8	109249302	109260931	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	8	109425530	109437140	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	8	112449882	112461463	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	8	113100736	113112341	1	spgonia_CAST_rep3-piC_176	39836
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	8	112785485	112797024	1	spgonia_CAST_rep3-piC_176	39836
+
+## mus_musculus_casteij ref query coordinates:9	53198579	53244540	1	spgonia_CAST_rep3-piC_189
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	52694961	52743026	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	53251633	53299534	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	53558166	53605140	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	54117297	54163259	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	54747060	54792855	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	52713855	52760312	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	50635749	50682098	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	58197950	58243955	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	52708858	52756512	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	51440241	51486520	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	53185946	53233281	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	56618968	56665052	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	51321126	51367708	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus	strain A/J	A_J_v1	chromosome	9	51554104	51600074	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	51413033	51460332	1	spgonia_CAST_rep3-piC_189	76855
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	53198579	53244540	1	spgonia_CAST_rep3-piC_189	76855
+
+## mus_musculus_casteij ref query coordinates:9	67598101	67666975	1	spgonia_CAST_rep3-piC_193
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	65261967	65290960	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	66833863	66865901	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	67871607	67900146	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	67597281	67626712	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	67371058	67399812	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	71836997	71866400	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	65022636	65051199	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	65014102	65042331	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain A/J	A_J_v1	chromosome	9	65277290	65305586	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	66821619	66852208	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	73016812	73046406	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64365102	64393430	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	66942888	66973831	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	69448900	69478273	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	67596661	67625035	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	67598101	67620084	1	spgonia_CAST_rep3-piC_193	74870
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	67620085	67666975	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	66865902	66914125	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	67900147	67945563	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	67626713	67674385	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	66973832	67018995	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	69478274	69525656	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain A/J	A_J_v1	chromosome	9	65305587	65349391	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	65042332	65086948	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	65051200	65096421	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	71866401	71912519	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	67399813	67443628	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	66852209	66896001	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	73046407	73091436	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	64393431	64437209	1	spgonia_CAST_rep3-piC_193	83760
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	65290961	65336419	1	spgonia_CAST_rep3-piC_193	83760
+
+## mus_musculus_casteij ref query coordinates:9	107516110	107524646	1	spgonia_CAST_rep3-piC_195
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	104345995	104354891	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	108505351	108514347	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	108717199	108726156	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	106563505	106572060	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	111494284	111502827	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	107442117	107451283	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	102816301	102824712	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	117019927	117028567	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	107179374	107187547	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain A/J	A_J_v1	chromosome	9	104571617	104580095	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	104259866	104268129	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	104036780	104045325	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	107596196	107604356	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	115449977	115458500	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	107345895	107354063	1	spgonia_CAST_rep3-piC_195	13594
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	107516110	107524646	1	spgonia_CAST_rep3-piC_195	13594
+
+## mus_musculus_casteij ref query coordinates:9	115870018	115885517	1	spgonia_CAST_rep3-piC_199
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	115870018	115885517	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	115769771	115785071	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	114328208	114343658	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	120129873	120149898	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	115889266	115907376	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	115516218	115533146	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	112136323	112151846	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	124616001	124639574	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	116028968	116044379	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	112454561	112471096	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain A/J	A_J_v1	chromosome	9	112656907	112672292	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	125866738	125882804	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	110947434	110963121	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	117279608	117296127	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	116930584	116948531	1	spgonia_CAST_rep3-piC_199	51623
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	112432993	112448456	1	spgonia_CAST_rep3-piC_199	51623
+
+## mus_musculus_casteij ref query coordinates:9	121175020	121190015	1	spgonia_CAST_rep3-piC_200
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	9	122208731	122221219	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain LP/J	LP_J_v1	chromosome	9	122549893	122562381	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	9	121108581	121122538	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	9	119261600	119274089	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	9	125539358	125551858	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	9	115956395	115968862	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	9	131218733	131232134	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain A/J	A_J_v1	chromosome	9	117654732	117667249	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	9	117532616	117545872	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	9	121188659	121201197	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	9	130253320	130265783	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	9	117096993	117109426	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	9	120726900	120739371	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	9	120992528	121007004	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	9	117528163	117541175	1	spgonia_CAST_rep3-piC_200	28701
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	9	121175020	121190015	1	spgonia_CAST_rep3-piC_200	28701
+
+## mus_musculus_casteij ref query coordinates:10	86940007	86958167	1	spgonia_CAST_rep3-piC_214
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	10	83783618	83823647	1	spgonia_CAST_rep3-piC_214	51787
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	10	86940007	86958167	1	spgonia_CAST_rep3-piC_214	51787
+
+## mus_musculus_casteij ref query coordinates:11	60348625	60365004	1	spgonia_CAST_rep3-piC_226
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	60348625	60364848	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	58624456	58641007	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	60025309	60041980	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	66402566	66420184	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	57707548	57723714	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	60310977	60327800	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	60250245	60267981	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	65339416	65355639	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	58044404	58060754	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain A/J	A_J_v1	chromosome	11	58459594	58475817	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	58755096	58771446	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	60405798	60422021	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	62615307	62632693	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	60665480	60681830	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	61270748	61286939	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	60693548	60710144	1	spgonia_CAST_rep3-piC_226	28723
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	58641008	58641159	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	62632700	62632890	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	60681837	60682027	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	60422029	60422221	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	60327896	60327999	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	58771540	58771821	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain A/J	A_J_v1	chromosome	11	58475911	58476017	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	65355733	65355839	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	60268549	60268655	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	58060847	58060951	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	57723771	57723824	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	66420185	66420191	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	60710154	60710301	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	61288076	61288274	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	60041981	60042134	1	spgonia_CAST_rep3-piC_226	875
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	60364849	60365004	1	spgonia_CAST_rep3-piC_226	875
+
+## mus_musculus_casteij ref query coordinates:11	73158040	73164023	1	spgonia_CAST_rep3-piC_229
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	72757209	72763609	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	73918300	73925405	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	73418463	73423755	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	73013475	73018772	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	75639292	75645870	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	72658389	72663652	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	70298456	70303514	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	72780954	72786513	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	79012451	79017668	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain A/J	A_J_v1	chromosome	11	70668525	70673800	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	70969520	70974977	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	72820502	72825765	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	79535372	79544004	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	69841346	69846769	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	70928738	70933796	1	spgonia_CAST_rep3-piC_229	15252
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	73158040	73164023	1	spgonia_CAST_rep3-piC_229	15252
+
+## mus_musculus_casteij ref query coordinates:11	105986993	105992767	1	spgonia_CAST_rep3-piC_242
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	11	105986993	105992767	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	11	102196610	102202352	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	11	101127895	101133652	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	11	104975713	104981470	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	11	113961338	113967097	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain A/J	A_J_v1	chromosome	11	101615222	101620981	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	11	102087946	102093703	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	11	104750108	104755865	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	11	113358232	113363989	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	11	100669743	100675500	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	11	102955933	102961690	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	11	109412808	109418565	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	11	105132758	105138515	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	11	106110442	106116199	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus	strain LP/J	LP_J_v1	chromosome	11	106629324	106635081	1	spgonia_CAST_rep3-piC_242	7811
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	11	105133052	105138809	1	spgonia_CAST_rep3-piC_242	7811
+
+## mus_musculus_casteij ref query coordinates:12	94215067	94286017	1	spgonia_CAST_rep3-piC_255
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	12	90054997	90124811	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	12	99761513	99836443	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain LP/J	LP_J_v1	chromosome	12	99586834	99658227	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	12	94166675	94238516	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	12	110332416	110406908	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	12	106618526	106692976	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	12	99174190	99243363	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	12	95440744	95511684	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	12	96352696	96430082	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain A/J	A_J_v1	chromosome	12	96027194	96100931	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	12	98627515	98697814	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	12	98349109	98418635	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	12	102816408	102897624	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	12	98188314	98261194	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	12	99006179	99077516	1	spgonia_CAST_rep3-piC_255	177764
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	12	94215067	94286017	1	spgonia_CAST_rep3-piC_255	177764
+
+## mus_musculus_casteij ref query coordinates:14	54819004	54823987	1	spgonia_CAST_rep3-piC_271
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	14	54819004	54823987	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	14	53074787	53081058	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	14	58045401	58051398	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain LP/J	LP_J_v1	chromosome	14	59068328	59074079	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain A/J	A_J_v1	chromosome	14	56728265	56734418	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	14	56686169	56692399	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	14	56400745	56406708	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	14	62623237	62629209	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	14	58357918	58365180	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	14	58744150	58750484	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	14	61840165	61846042	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	14	55787447	55793567	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	14	57892214	57898012	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	14	63755404	63761417	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	14	60794205	60801393	1	spgonia_CAST_rep3-piC_271	17063
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	14	58219250	58226317	1	spgonia_CAST_rep3-piC_271	17063
+
+## mus_musculus_casteij ref query coordinates:15	58532183	58578710	1	spgonia_CAST_rep3-piC_274
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	15	58532183	58578710	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	15	59118004	59160946	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	15	60714835	60761205	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	15	58140772	58185579	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	15	55138849	55185304	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	15	67874809	67919730	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	15	57725870	57773146	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	15	57865013	57908574	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	15	62832222	62880660	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	15	56093939	56137525	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain A/J	A_J_v1	chromosome	15	56183214	56228493	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	15	56400130	56445282	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	15	58456911	58501103	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus	strain LP/J	LP_J_v1	chromosome	15	58327918	58372470	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	15	58146731	58191569	1	spgonia_CAST_rep3-piC_274	95188
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	15	56109494	56152877	1	spgonia_CAST_rep3-piC_274	95188
+
+## mus_musculus_casteij ref query coordinates:16	14504127	14513341	1	spgonia_CAST_rep3-piC_292
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	16	14504127	14513341	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain LP/J	LP_J_v1	chromosome	16	14392559	14401824	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	16	14634296	14643561	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	16	14866712	14875977	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	16	17298849	17308116	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	16	14397371	14406636	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	16	14455070	14464335	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain A/J	A_J_v1	chromosome	16	13909127	13918392	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	16	14048240	14057505	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	16	13828179	13837444	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	16	15538478	15547743	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	16	14605690	14614955	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	16	13871062	13880327	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	16	15234111	15243376	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	16	14393182	14402443	1	spgonia_CAST_rep3-piC_292	14527
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	16	14079789	14089262	1	spgonia_CAST_rep3-piC_292	14527
+
+## mus_musculus_casteij ref query coordinates:16	30323292	30333113	1	spgonia_CAST_rep3-piC_294
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	16	30323292	30333113	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	16	30004680	30013484	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	16	31799563	31810190	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	16	28850557	28859527	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	16	28865073	28873834	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	16	32354827	32363292	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	16	30200598	30210776	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain A/J	A_J_v1	chromosome	16	29012858	29021279	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	16	29163706	29172925	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	16	30073209	30084054	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	16	30054429	30064131	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	16	32204867	32213346	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	16	31108857	31118238	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	16	30453171	30461740	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus	strain LP/J	LP_J_v1	chromosome	16	30224242	30232901	1	spgonia_CAST_rep3-piC_294	23172
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	16	29186155	29194513	1	spgonia_CAST_rep3-piC_294	23172
+
+## mus_musculus_casteij ref query coordinates:17	22765062	22770831	1	spgonia_CAST_rep3-piC_305
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	22921324	22931160	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	23444574	23450571	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	23126382	23133948	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	22855534	22861485	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	24391595	24397336	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	24171498	24177239	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	22588070	22593722	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain A/J	A_J_v1	chromosome	17	22525218	22533151	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	22702073	22708807	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	22098746	22104709	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	22922513	22937803	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	24998085	25004075	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	21815249	21823358	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	24716874	24726018	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	20857862	20863974	1	spgonia_CAST_rep3-piC_305	32857
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	22765062	22770831	1	spgonia_CAST_rep3-piC_305	32857
+
+## mus_musculus_casteij ref query coordinates:17	25101275	25109889	1	spgonia_CAST_rep3-piC_307
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	25101275	25103819	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	24788610	24790453	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain A/J	A_J_v1	chromosome	17	24675528	24677465	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	24897976	24899745	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	25179692	25181484	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	27451819	27453564	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	24268518	24270349	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	27009342	27012414	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	26499005	26500868	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	26493595	26496687	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	25145898	25147753	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	25440007	25443255	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	25170094	25171921	1	spgonia_CAST_rep3-piC_307	6775
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	25716716	25722784	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	25443256	25449324	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	24033303	24039375	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	27012415	27018532	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	24270350	24276449	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	25181485	25187557	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	27453565	27459631	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	24899746	24905814	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain A/J	A_J_v1	chromosome	17	24677466	24683571	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	24790454	24796522	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	25147754	25153846	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	26500869	26506928	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	26496688	26502747	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	25171922	25177992	1	spgonia_CAST_rep3-piC_307	7417
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	25103820	25109889	1	spgonia_CAST_rep3-piC_307	7417
+
+## mus_musculus_casteij ref query coordinates:17	26178009	26293016	1	spgonia_CAST_rep3-piC_310
+Mus musculus castaneus	strain CAST/EiJ	CAST_EiJ_v1	chromosome	17	26178009	26293016	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus musculus	strain PWK/PhJ	PWK_PhJ_v1	chromosome	17	24082958	24172857	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus domesticus	strain WSB/EiJ	WSB_EiJ_v1	chromosome	17	26275520	26373703	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain AKR/J	AKR_J_v1	chromosome	17	25876198	25981118	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain BALB/cJ	BALB_cJ_v1	chromosome	17	25979790	26078947	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain A/J	A_J_v1	chromosome	17	25725670	25822938	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain DBA/2J	DBA_2J_v1	chromosome	17	25296147	25384145	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain C3H/HeJ	C3H_HeJ_v1	chromosome	17	26266142	26358085	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain CBA/J	CBA_J_v1	chromosome	17	28622666	28735317	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain NOD/ShiLtJ	NOD_ShiLtJ_v1	chromosome	17	28140345	28241370	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain FVB/NJ	FVB_NJ_v1	chromosome	17	25072768	25169086	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain C57BL/6NJ	C57BL_6NJ_v1	chromosome	17	27659688	27769132	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	reference (CL57BL6) strain	GRCm39	chromosome	17	27497761	27590496	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain NZO/HlLtJ	NZO_HlLtJ_v1	chromosome	17	26249149	26368888	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain LP/J	LP_J_v1	chromosome	17	26800996	26923830	1	spgonia_CAST_rep3-piC_310	431198
+Mus musculus	strain 129S1/SvImJ	129S1_SvImJ_v1	chromosome	17	26552094	26652924	1	spgonia_CAST_rep3-piC_310	431198
