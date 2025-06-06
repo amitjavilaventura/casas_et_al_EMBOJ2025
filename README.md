@@ -1,6 +1,6 @@
 # Mouse piC-variation (review)
 
-Analyses for the review of Casas et al., EMBO J, 2025. 
+Analyses for the paper Casas et al., EMBO J, 2025. 
 
 Casas, Mitjavila et al., **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**, *EMBO Journal*, 2025, [DOI: 10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4).
 
